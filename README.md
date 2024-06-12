@@ -6,5 +6,6 @@ diskElite
 diskExpert
 diskPrime
 diskXtreme
+diskBlaze
 
 Code a name-generator tool in python and name this tool
